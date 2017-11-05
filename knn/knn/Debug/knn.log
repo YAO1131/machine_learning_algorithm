@@ -1,0 +1,5 @@
+﻿  knn.cpp
+d:\code\machine_learning\knn\knn\knn\knn.cpp(17): warning C4351: 新增行为:  默认情况下初始化数组“knn::traindata”的元素
+d:\code\machine_learning\knn\knn\knn\knn.cpp(18): warning C4351: 新增行为:  默认情况下初始化数组“knn::testdata”的元素
+d:\code\machine_learning\knn\knn\knn\knn.cpp(19): warning C4351: 新增行为:  默认情况下初始化数组“knn::labels”的元素
+  knn.vcxproj -> D:\code\machine_learning\knn\knn\Debug\knn.exe
